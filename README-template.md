@@ -23,6 +23,7 @@ This project, qr-code-component was built using HTML and CSS
 
 ### Links
 - Solution URL: [Add solution URL here](https://github.com/DolapoOlayinka/qr-code-fem)
+- Live URL: [Add Live URL here](https://dolapoolayinka.github.io/qr-code-fem/)
 
 
 ## My process
